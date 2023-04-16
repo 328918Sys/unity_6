@@ -1,0 +1,4 @@
+repository "Unity3d@qikunze@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
